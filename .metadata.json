@@ -1,0 +1,10 @@
+[
+  {
+    "package": "mappoly",
+    "oncran": true
+  },
+  {
+    "package": "viewpoly",
+    "oncran": true
+  }
+]
