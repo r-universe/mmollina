@@ -5,6 +5,3 @@
 [submodule "mappoly"]
 	path = mappoly
 	url = https://github.com/mmollina/mappoly
-[submodule "viewpoly"]
-	path = viewpoly
-	url = https://github.com/mmollina/viewpoly
